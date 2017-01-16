@@ -7,6 +7,7 @@ https://github.com/aws/opsworks-cookbooks
 List of files overriden from AWS cookbooks:
 
 - unicorn/templates/default/nginx_unicorn_web_app.erb
+- ngninx/templates/default/nginx.conf.erb
 
 
 License and Authors
